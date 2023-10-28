@@ -1,6 +1,8 @@
-title: Minimal theme
+title: <p align="center">Madhusmita Ghosh</p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description: 
+    <p align="center">
+
+   <a href="https://github.com/madhusmita6">GitHub</a>
+   </p>
 theme: jekyll-theme-minimal
